@@ -1,8 +1,8 @@
 ## <h1 align="center">Olá, seja bem-vindo(a) ao meu GITHUB!</h1>
 <div align="center">
-  Olá, bem vindo(a) ao meu perfil me chamo Pedro, sou estudante de sistemas de informação através da faculdade Estácio.
+  Olá, bem vindo(a) ao meu perfil me chamo Pedro, sou estudante de Ciências e Tecnologia através da Universidade Federal do Rio Grande do Norte.
 
-Tenho experiência com: JavaScript, ECMAScript 6,7,8, PHP, OO, Ajax, Git, GitHub, Linguagem SQL, MySQL, JQuery, MVC Composer, Slim Framework, Sass, WordPress e atualmente estou estudando React JS e APIs REST. 
+Tenho conhecimentos em: JavaScript, PHP, GitHub, MySQL, React, APIs REST e atualmente estou estudando Python e Django. 
 
 Convido você a dar uma olhada no meu repositório, onde guardo todos os meus estudos e minha estrutura de conhecimento .       
 
