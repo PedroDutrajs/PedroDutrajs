@@ -14,7 +14,6 @@ Buscando minha primeira oportunidade como desenvolvedor para aplicar e evoluir m
 <div align="center">
   <a href="https://github.com/PedroDutrajs">
 
-<img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroDutrajs"/>
   
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDutrajs&layout=compact&langs_count=7&theme=dark"/>
 </div>
