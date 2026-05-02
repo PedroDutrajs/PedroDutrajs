@@ -9,19 +9,7 @@ Buscando minha primeira oportunidade como desenvolvedor para aplicar e evoluir m
   
   ##
 
-  ---
 
-## 🚀 Projeto em destaque
-
-🔗 SubTrack — Gerenciador de Assinaturas  
-👉 https://subscription-manager-pearl.vercel.app  
-
-- Fullstack (React + Node + TypeScript)
-- Autenticação JWT
-- Dashboard com gráficos
-- Deploy em produção (Vercel + Render)
-  
-  ##
 </div>
 <div align="center">
   <a href="https://github.com/PedroDutrajs">
