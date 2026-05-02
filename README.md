@@ -12,7 +12,7 @@ Buscando minha primeira oportunidade como desenvolvedor para aplicar e evoluir m
 </div>
 <div align="center">
   <a href="https://github.com/PedroDutrajs">
-  <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroDutrajs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="400" src="(https://github-readme-stats.vercel.app/api?username=PedroDutrajs)](https://github.com/anuraghazra/github-readme-stats)"/>
 
 <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroDutrajs&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
