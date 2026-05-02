@@ -14,8 +14,7 @@ Buscando minha primeira oportunidade como desenvolvedor para aplicar e evoluir m
 
 <div align="center">
   
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=PedroDutrajs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroDutrajs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDutrajs&layout=compact&langs_count=8&theme=dark"/>
-
+<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroDutrajs&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
